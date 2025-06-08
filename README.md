@@ -1,6 +1,6 @@
 ## HEY THERE AND WELCOME !! 👋
 
-<h2 align="center">I'm a Cybersecurity student and a cloud and DevOps enthusiast.<br>Well, I do some game development too 😁</h2>
+<h2 align="center">I'm a Cybersecurity student and a cloud and DevOps enthusiast.<br>Well, I sometimes do game development too for fun 😁</h2>
 
 ###
 
@@ -56,7 +56,7 @@
   <a href="https://www.twitch.tv/lysa_on_twitch" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://discord.com/users/lysa_89948" target="_blank">
+  <a href="https://discord.com/users/lysa8342" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/maholy-ramaromanana/" target="_blank">
