@@ -74,6 +74,6 @@
 
 ###
 
-<h2 align="center">✨Haaaappyyy explooorriiinnnggg 🚀</h2>
+<h2 align="center">✨Haaaappyyy explooorriiiinnnggg 🚀</h2>
 
 ###
