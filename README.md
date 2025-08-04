@@ -2,15 +2,6 @@
 
 <h2 align="center">I'm a Cybersecurity student and a cloud and DevOps enthusiast.<br>Well, I sometimes do game development too for fun 😁</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lysa-on-git&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lysa-on-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Most%20used%20languages" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/EKm1biHeFmAAAAAd/lettuce-see-let-us-see.gif"  />
 
 ###
