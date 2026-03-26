@@ -1,6 +1,6 @@
 ## HEY THERE AND WELCOME !! 👋
 
-<h2 align="center">I'm a Cybersecurity student and a cloud and DevOps enthusiast.<br>Well, I sometimes do game development too for fun 😁</h2>
+<h2 align="center">I'm a Cloud, DevOps and Cybersecurity enthusiast.<br>Well, I sometimes do game development too for fun 😁</h2>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/EKm1biHeFmAAAAAd/lettuce-see-let-us-see.gif"  />
 
